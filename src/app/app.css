@@ -1,4 +1,7 @@
 .app {
   display: flex;
+  flex-direction: row-reverse;
   justify-content: center;
+  font-family: "Handlee", cursive;
+  padding-left: 2.8em;
 }
