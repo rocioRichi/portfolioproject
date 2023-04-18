@@ -1,0 +1,12 @@
+.linkbox {
+  display: flex;
+  display: block;
+  background: lightgrey;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  border-bottom: 1px solid grey;
+}
+.li:hover {
+  filter: brightness(110%);
+}
