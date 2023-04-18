@@ -1,0 +1,27 @@
+.menutext {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  padding-right: 135px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+.menutexto__div_textmenu {
+  display: flex;
+  align-items: center;
+}
+.menutexto__ul_textmenu {
+  display: flex;
+}
+.menutexto__li {
+  padding: 0.3em;
+}
+.menutexto__div_findermenu {
+  display: flex;
+}
+ul li {
+  list-style: none;
+}
